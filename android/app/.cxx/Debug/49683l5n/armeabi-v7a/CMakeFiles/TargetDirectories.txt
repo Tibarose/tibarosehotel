@@ -1,0 +1,2 @@
+D:/tiba roses application/untitled2/android/app/.cxx/Debug/49683l5n/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/tiba roses application/untitled2/android/app/.cxx/Debug/49683l5n/armeabi-v7a/CMakeFiles/rebuild_cache.dir
